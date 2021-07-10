@@ -1,0 +1,593 @@
+.introBlock{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color:white;
+
+}
+.backgroundImage{
+    background-image: url("../images/BG_IMAGE.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.font1{
+   word-spacing: 5px;
+}
+.yellowbox{  
+   background: yellow;
+   color: black;
+   width: 172px;
+   height: 44px;
+   font-family: 'Raleway', sans-serif;
+}
+ body{
+    width: 1080px;
+    
+} 
+
+ .secondBlock{
+    background-image: url("../images/Composite_Path.png");
+    background-repeat: no-repeat;
+    color: black;
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-position: center;
+}
+.font3{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+   
+   
+} 
+
+.axeIcon{
+    background-image: url("../images/axe_Path-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.font4{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+
+}
+
+.font5{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    padding-top: 10px;
+}
+
+.thirdBlock{
+    position: relative;
+    background-color: #F4F4F4;
+    width: 1080px;
+    height: 800px;
+
+}
+
+.printicon{
+    position: absolute;
+    background-image:url("../images/print_icon-3.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 10px;
+    top: 260px;
+}
+
+
+ .border1{
+  position: absolute;
+  width: 220px;
+  height: 350px;
+  padding: 10px;
+  border: 5px solid white;
+  margin: 0;  
+  background-color: white;
+  top: 260px;
+  left: 10px;
+} 
+
+.font6{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    top: 340px;
+    left: 100px;
+}
+
+.font7{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    top: 420px;
+    width: 180px;
+    height: 180px;
+    left: 50px;
+}
+
+.smallborder{
+    position: absolute;
+    width: 242px;
+    height: 110px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 30px;
+    left: 10px;
+}
+
+.ps{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 110px;
+    left: 30px;
+}
+.ai{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 70px;
+    left: 30px;
+}
+.id{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 30px;
+    left: 30px;
+}
+.line1{
+    position: absolute;
+    background-image: url("../images/line1_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 30px;
+    bottom: 20px;
+}
+.line2{
+    position: absolute;
+    background-image: url("../images/line1_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 30px;
+    top: 720px;
+}
+
+.line3{
+    position: absolute;
+    background-image: url("../images/line3_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 30px;
+    top: 755px;
+}
+
+.toolicon{
+    position: absolute;
+    background-image:url("../images/tool_icon-2.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 380px;
+    top: 270px;
+}
+
+.border2{
+  position: absolute;
+  width: 220px;
+  height: 350px;
+  padding: 10px;
+  border: 5px solid white;
+  margin: 0;  
+  background-color: white;
+  top: 260px;
+  left: 280px;
+}
+.smallborder2{
+    position: absolute;
+    width: 242px;
+    height: 110px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 30px;
+    left: 280px;
+}
+
+.ui{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 110px;
+    left: 295px;
+}
+
+.ux{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 70px;
+    left: 295px;
+}
+
+.responsive{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 30px;
+    left: 295px; 
+}
+
+.line4{
+    position: absolute;
+    background-image: url("../images/line4_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 290px;
+    bottom: 20px;
+}
+
+.line5{
+    position: absolute;
+    background-image: url("../images/line1_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 290px;
+    top: 720px;
+}
+
+.line6{
+    position: absolute;
+    background-image: url("../images/line3_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 290px;
+    top: 755px;
+}
+
+.font8{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    left: 380px;
+    bottom: 400px;
+}
+.font9{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    bottom: 170px;
+    left: 320px;
+    width: 180px;
+    height: 180px;
+}
+
+.compicon{
+    position: absolute;
+    background-image:url("../images/comp_icon-1.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 650px;
+    top: 270px;
+}
+
+.border3{
+  position: absolute;
+  width: 220px;
+  height: 350px;
+  padding: 10px;
+  border: 5px solid white;
+  margin: 0;  
+  background-color: white;
+  top: 260px;
+  left: 550px;
+}
+
+.smallborder3{
+    position: absolute;
+    width: 242px;
+    height: 110px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 30px;
+    left: 550px;
+}
+
+.html{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 110px;
+    left: 559px;
+}
+
+.Css{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 70px;
+    left: 559px;
+}
+
+.Js{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 30px;
+    left: 559px; 
+}
+
+.line7{
+    position: absolute;
+    background-image: url("../images/line7_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 558px;
+    bottom: 20px;
+}
+
+.line8{
+    position: absolute;
+    background-image: url("../images/line8_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 558px;
+    top: 720px;
+}
+
+.line9{
+    position: absolute;
+    background-image: url("../images/line9_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 558px;
+    top: 755px;
+}
+
+.font10{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    bottom: 170px;
+    left: 590px;
+    width: 180px;
+    height: 180px;
+}
+
+.font11{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    right: 300px;
+    top: 330px;
+}
+
+.phoneicon{
+    position: absolute;
+    background-image:url("../images/phone_icon.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    left: 950px;
+    top: 270px;
+}
+
+.border4{
+
+    position: absolute;
+    width: 220px;
+    height: 350px;
+    padding: 10px;
+    border: 5px solid white;
+    margin: 0;  
+    background-color: white;
+    top: 260px;
+    right: 6px;
+}
+
+.smallborder4{
+    position: absolute;
+    width: 242px;
+    height: 110px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 30px;
+    left: 822px;
+}
+
+.c{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 110px;
+    right: 215px;
+}
+
+.java{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 70px;
+    right: 215px;
+}
+
+.sweift{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 30px;
+    right: 205px; 
+}
+
+.line10{
+    position: absolute;
+    background-image: url("../images/line10_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    right: -20px;
+    bottom: 20px;
+}
+
+.line11{
+    position: absolute;
+    background-image: url("../images/line11_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    right: -20px;
+    top: 720px;
+}
+
+.line12{
+    position: absolute;
+    background-image: url("../images/line9_.png");
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    padding: 50px;
+    width: 170px;
+    right: -20px;
+    top: 755px;
+}
+
+.font12{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    right: 30px;
+    top: 330px;
+   
+}
+
+.font13{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    right: 40px;
+    width: 180px;
+    height: 180px;
+    bottom: 170px;
+
+}
+
+ .printicon{
+    position: absolute;
+    background-image: url("../images/print_icon-3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    right: 400px;
+} 
+
+.blackbox{
+  position: relative;
+  width: 1050px;
+  height: 150px;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 0;  
+  background-color: black;
+  bottom: 0px;
+  left: 0px;
+}
+
+.whitebox1{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 50px;
+    left: 5px;
+}
+
+.design{
+    position: absolute;
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 50px;
+    left: 50px;
+}
+
+.whitebox2{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 50px;
+    left: 280px;
+}
+
+.pages{
+    position: absolute;
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 50px;
+    left: 350px;
+}
+
+.whitebox3{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 50px;
+    left: 550px;
+}
+
+.codes{
+    position: absolute;
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 50px;
+    right: 300px;
+}
+
+.whitebox4{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    border: 5px solid white;
+    bottom: 50px;
+    right: -10px;
+}
+
+.apps{
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    bottom: 50px;
+    right: 50px;
+}
